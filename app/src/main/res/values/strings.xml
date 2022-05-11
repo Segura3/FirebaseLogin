@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FirebaseLogin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="usuario">Usuario</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="registro">Registro</string>
+    <string name="valreq">Valor requerido</string>
+    <string name="ingresa_valor">Ingresa un correo valido</string>
+    <string name="usuario_no_registrado">Usuario no registrado</string>
+    <string name="user_def">User</string>
+    <string name="fallo_logout">Fallo cerrar sesion</string>
+    <string name="inicio_login">Inicio del registro</string>
+    <string name="error_registro">Error en el registro</string>
+    <string name="psw_guideline">La contraseña debe tener al menos 8 caracteres que incluyan por lo menos una letra y un numero</string>
+    <string name="correo_valido">Ingresa un correo valido</string>
+</resources>

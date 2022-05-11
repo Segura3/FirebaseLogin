@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982353186051",
+    "project_id": "fir-login-c4741",
+    "storage_bucket": "fir-login-c4741.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982353186051:android:26956472ef09d9bfa5ad36",
+        "android_client_info": {
+          "package_name": "com.seguras.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982353186051-e9itn7ll6mneegngt6vli44pmr3iob3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhLXnqxHwCj5Fbd3mR0oPFlAN1-sJ89RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982353186051-e9itn7ll6mneegngt6vli44pmr3iob3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
